@@ -122,6 +122,7 @@ font-size: var(--fs-h3);
     padding: .25em 1em;
     font-family: var(--ff-secondary);
     margin-bottom: 1em;
+    color: var(--clr-light);
 }
 /*header*/
 
@@ -259,6 +260,7 @@ header{
         min-width:250px;
         position: relative;
         z-index: 2;
+        background: var(--clr-light);
     }
 
     .section__subtitle--intro{
